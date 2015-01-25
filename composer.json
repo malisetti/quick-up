@@ -1,5 +1,5 @@
 {
-    "name": "mseshachalam/symfony-quickstart",
+    "name": "mseshachalam/quick-up",
     "license": "MIT",
     "type": "project",
     "description": "Symfony quickstart & best practice tools - Behat 3, PHPSpec 2, PHPUnit 4 & Twitter Bootstrap 3",
